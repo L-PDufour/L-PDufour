@@ -1,4 +1,4 @@
-### Hi there 👋
+<p style="text-align: center;">### Bonjour 👋, je suis Léon-Pierre Dufour </p>
 
 <!--
 **L-PDufour/L-PDufour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
