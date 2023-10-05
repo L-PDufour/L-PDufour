@@ -1,7 +1,7 @@
 <h1 align="center">Bonjour 👋, je suis Léon-Pierre Dufour </h1>
 
 
-- 🔭 Je travaille actuellement sur [Pipex](https://github.com/L-PDufour/so_long)
+- 🔭 Je travaille actuellement sur [so_long](https://github.com/L-PDufour/so_long)
 - 🌱 I’m currently learning C
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
