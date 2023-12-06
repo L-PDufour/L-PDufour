@@ -1,5 +1,5 @@
           
-<h1 align="center">Bonjour 👋, je suis Léon-Pierre Dufour </h1>
+<h1 align="center">Bonjour 👋, je m'appelle Léon-Pierre Dufour </h1>
 
 
 - 🔭 Je travaille actuellement sur [Philosophers](https://github.com/L-PDufour/Philosophers)
