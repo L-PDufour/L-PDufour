@@ -4,10 +4,6 @@
 
 - 🔭 Je travaille actuellement sur [Philosophers](https://github.com/L-PDufour/Philosophers)
 - 🌱 I’m currently learning/playing with <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="20" width="20" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="20" width="20" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="20" width="20" /> <img src="https://raw.githubusercontent.com/neovim/neovim.github.io/master/logos/neovim-logo-300x87.png" height="20" width="70" /> <img src="https://raw.githubusercontent.com/tmux/tmux/master/logo/tmux-logo-medium.png" height="20" width="70" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="20" width="30" />
-          
-          
-                  
-
 <h2 align="center">Cursus 42 </h2>
 
 <div align="center">
