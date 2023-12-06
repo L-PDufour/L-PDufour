@@ -10,15 +10,15 @@
 
 | Projet | Description | Note* |
 | :--------------- | :--------------- | :---------------: |
-| [Libft](https://github.com/L-PDufour/libft)    | Row 1, Col 2    | Row 1, Col 3    |
-| [Ft_printf](https://github.com/L-PDufour/ft_printf)   | Row 2, Col 2    | Row 2, Col 3    |
-| [Get_next_line](https://github.com/L-PDufour/get_next_line)    | Row 1, Col 2    | Row 1, Col 3    |
-| Borntoberoot   | Row 3, Col 2    | Row 3, Col 3    |
-| [Push_swap](https://github.com/L-PDufour/Push_swap)   | Row 2, Col 2    | Row 2, Col 3    |
-| [Pipex](https://github.com/L-PDufour/Pipex)   | Row 2, Col 2    | Row 2, Col 3    |
-| [So_long](https://github.com/L-PDufour/so_long)   | Row 2, Col 2    | Row 2, Col 3    |
-| [Minishell](https://github.com/L-PDufour/minishell)   | Row 2, Col 2    | Row 2, Col 3    |
-| [Philosophers](https://github.com/L-PDufour/philosophers)   | Row 2, Col 2    | Row 2, Col 3    |
+| [Libft](https://github.com/L-PDufour/libft)    | _Création d'une bibliothèque de fonctions standard_    | __125/100__  |
+| [Ft_printf](https://github.com/L-PDufour/ft_printf)   | _Implémentation d'une fonction réduite de __printf___   | __100/100__   |
+| [Get_next_line](https://github.com/L-PDufour/get_next_line)    | _Implémentation d'une fonction minimaliste de __getline___    | __125/100__    
+| Borntoberoot   |  _Mise en place d'un serveur linux sur une machine virtuelle_   | __108/100__     |
+| [Push_swap](https://github.com/L-PDufour/Push_swap)   | _Création d'un algorythme de tri utilisant deux piles_     | __123/100__     |
+| [Pipex](https://github.com/L-PDufour/Pipex)   | _Création d'un programme qui reproduit le comportement d'un pipeline shell_  | __115/100__     |
+| [So_long](https://github.com/L-PDufour/so_long)   | _Développement d'un jeu vidéo en 2D utilisant la bibliothèque graphique __MLX42___    | __100/100__     |
+| [Minishell](https://github.com/L-PDufour/minishell)   |     | __TBD__     |
+| [Philosophers](https://github.com/L-PDufour/philosophers)   |     | __TBD__     |
 
 </div>
 
