@@ -2,7 +2,7 @@
 <h1 align="center">Bonjour 👋, je m'appelle Léon-Pierre Dufour </h1>
 
 
-- 🔭 Je travaille actuellement avec [Boot.dev](boot.dev)
+- 🔭 Je travaille actuellement avec [Boot.dev](https://www.boot.dev/)
 - 🌱 J'apprends ou je m'amuse avec <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="20" width="20" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="20" width="20" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="20" width="20" /> <img src="https://raw.githubusercontent.com/neovim/neovim.github.io/master/logos/neovim-logo-300x87.png" height="20" width="70" /> <img src="https://raw.githubusercontent.com/tmux/tmux/master/logo/tmux-logo-medium.png" height="20" width="70" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="20" width="30" />
 <h2 align="center">Cursus 42 </h2>
 
