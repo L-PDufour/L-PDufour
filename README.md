@@ -1,13 +1,15 @@
        
 <h1 align="center">Bonjour 👋, je m'appelle Léon-Pierre Dufour </h1>
+  <a href="https://www.linkedin.com/in/l-pdufour">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="20" width="30"/>
+       </a>
 
 
 - Je travaille actuellement avec [Boot.dev](https://www.boot.dev/)
 - J'apprends ou je m'amuse avec <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="20" width="20" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="20" width="30"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" height="20" width="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="20" width="20" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="20" width="30" />
-<a href="https://www.linkedin.com/in/l-pdufour">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="20" width="30"/>
-</a>
+
+
 
 <h2 align="center">Cursus 42 </h2>
 
