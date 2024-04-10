@@ -22,9 +22,21 @@
 | [Push_swap](https://github.com/L-PDufour/Push_swap)   | _Création d'un algorithme de tri utilisant deux piles_     | __123/100__     |
 | [Pipex](https://github.com/L-PDufour/Pipex)   | _Création d'un programme qui reproduit le comportement d'un pipeline shell_  | __115/100__     |
 | [So_long](https://github.com/L-PDufour/so_long)   | _Développement d'un jeu vidéo en 2D utilisant la bibliothèque graphique __MLX42___    | __100/100__     |
-| [Minishell](https://github.com/L-PDufour/minishell)   |     | __TBD__     |
-| [Philosophers](https://github.com/L-PDufour/philosophers)   |     | __TBD__     |
+
 
 </div>
+
+<h2 align="center">Boot.dev </h2>
+
+<div align="center">
+
+| Projet | Description |
+| :--------------- | :--------------- |
+| [mazeSolver](https://github.com/L-PDufour/mazeSolver) | _Projet pour apprendre python et des algorythmes_ |
+| [hexTile](https://github.com/L-PDufour/hexTile) | _Un jeu dans le terminal qui m'a aidé à découvrir l'OOP_ |
+| [Get_next_line](https://github.com/L-PDufour/get_next_line)    | _Implémentation d'une fonction minimaliste de __getline___    |
+
+</div>
+
 
 **Chaque projet offre la possibilité d'obtenir des bonus, d'où les notes pouvant dépasser 100.*
