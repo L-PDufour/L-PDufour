@@ -41,4 +41,4 @@
 
 **Chaque projet offre la possibilité d'obtenir des bonus, d'où les notes pouvant dépasser 100.*
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l-pdufour&langs_count=5&layout=compact&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l-pdufour&langs_count=5&layout=compact&theme=transparent&size_weight=0.5&count_weight=0.5)
