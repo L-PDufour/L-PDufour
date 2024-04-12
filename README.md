@@ -34,7 +34,7 @@
 
 | Projet | Description |
 | :--------------- | :--------------- |
-| [mazeSolver](https://github.com/L-PDufour/mazeSolver) | _Projet pour apprendre python et des algorythmes_ |
+| [mazeSolver](https://github.com/L-PDufour/mazeSolver) | _Projet pour apprendre python et des algorithmes_ |
 | [hexTile](https://github.com/L-PDufour/hexTile) | _Un jeu dans le terminal qui m'a aidé à découvrir l'OOP_ |
 | [webCrawler](https://github.com/L-PDufour/webCrawler) | _Projet en JS qui log tout les liens à partir d'un site web_ |
 
