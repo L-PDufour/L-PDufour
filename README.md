@@ -5,7 +5,7 @@
        </a>
 
 
-- Je travaille actuellement avec [Boot.dev](https://www.boot.dev/)
+- J'étudie actuellement avec [Boot.dev](https://www.boot.dev/)
 - J'apprends et je m'amuse avec <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="20" width="20" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="20" width="30"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" height="20" width="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="20" width="20" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="20" width="30" />
 
