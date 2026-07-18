@@ -47,8 +47,3 @@ J'apprends et je m'amuse avec <img src="https://cdn.jsdelivr.net/gh/devicons/dev
 | :--------------- | :--------------- |
 | Borntoberoot | *Mise en place d'un serveur Linux sur une machine virtuelle* |
 
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/?username=l-pdufour)
-
-</div>
