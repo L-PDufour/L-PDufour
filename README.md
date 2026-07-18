@@ -49,6 +49,6 @@ J'apprends et je m'amuse avec <img src="https://cdn.jsdelivr.net/gh/devicons/dev
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/?username=l-pdufour)
+![Top Langs](https://github-readme-stats.vercel.app/api?username=l-pdufour)
 
 </div>
